@@ -1,10 +1,10 @@
 # cbBTC Trend Bot — make.fun 24h BTC Race
 
-![make.fun bounty](https://make.fun/badge/btc-race-24h-20261123-0511.svg)
-![rank](https://make.fun/badge/btc-race-24h-20261123-0511/Biose-dot/btc-race-24h-20261123-0511/rank.svg)
-![reward](https://make.fun/badge/btc-race-24h-20261123-0511/Biose-dot/btc-race-24h-20261123-0511/reward.svg)
+[![make.fun · btc-race-24h-20261123-0511](https://make.fun/badge/btc-race-24h-20261123-0511.svg)](https://make.fun/bounty/btc-race-24h-20261123-0511?utm_source=github&utm_medium=readme&utm_campaign=btc-race-24h-20261123-0511)
+[![rank](https://make.fun/badge/btc-race-24h-20261123-0511/Biose-dot/btc-race-24h-20261123-0511/rank.svg)](https://make.fun/bounty/btc-race-24h-20261123-0511/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=btc-race-24h-20261123-0511)
+[![reward](https://make.fun/badge/btc-race-24h-20261123-0511/Biose-dot/btc-race-24h-20261123-0511/reward.svg)](https://make.fun/bounty/btc-race-24h-20261123-0511?utm_source=github&utm_medium=readme&utm_campaign=btc-race-24h-20261123-0511)
 
-Bounty: https://make.fun/bounty/btc-race-24h-20261123-0511
+Bounty: [Race a BTC trading bot live for 24 hours](https://make.fun/bounty/btc-race-24h-20261123-0511) on make.fun.
 
 ## Strategy
 
